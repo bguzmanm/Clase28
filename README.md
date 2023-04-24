@@ -17,7 +17,7 @@ Cada torneo tiene cinco modalidades:
 - Dobles femenino 
 - Dobles mixtos.
 
-- También hay que tener en cuenta la nacionalidad de un jugador, de forma que este puede ser apátrida o tener varias nacionalidades.
+También hay que tener en cuenta la nacionalidad de un jugador, de forma que este puede ser apátrida o tener varias nacionalidades.
 
 ## Preguntas
 El sistema debe dar respuesta a las siguientes preguntas:
