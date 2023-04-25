@@ -3,8 +3,8 @@
 El sistema debe guardar todos los encuéntros que se han desarrollado desde que existe el torneo, 
 así como las siguientes características de estos.
 
-El Grand Slam se compone de cuatro torneos anuales que se celebran en Gran Bretaña, Estados Unidos, Francia y Australia. 
-En cada país se pueden desarrollar en distintos lugares (p. ej., en EE. UU. pueden desarrollarse en Forest Hill o en Flashing Meadows).
+El Grand Slam se compone de cuatro torneos anuales que se celebran en Gran Bretaña, 
+Estados Unidos, Francia y Australia. En cada país se pueden desarrollar en distintos lugares (p. ej., en EE. UU. pueden desarrollarse en Forest Hill o en Flashing Meadows).
 
 Cada partido tiene asociado un premio de consolación para el perdedor que dependerá de la fase en que se encuentre
 el torneo (p. ej., el perdedor de octavos de final puede ganar 5.000 dólares). 
